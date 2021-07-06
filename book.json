@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "anchor-navigation-ex"
+  ],
+  "title": "EntryTask Report",
+  "pluginsConfig": {
+      "anchor-navigation-ex": {
+        "showLevel": false
+      }
+      
+
+  }
+}
